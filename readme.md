@@ -1,1 +1,1 @@
-# SpringDemo App
+# ServletDemo App
